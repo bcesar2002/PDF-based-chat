@@ -32,9 +32,8 @@ A solução foi construída **integralmente na interface gráfica do ambiente Az
 ---
 
 ## 👨‍💻 Equipe / Responsáveis
-**Projeto:** Gelato Mágico — Previsão de Vendas  
-**Especialista Azure ML:** _Bruno César F. Silva_  
-**Cliente:** Sorveteria Gelato Mágico  
+**Projeto:** PDF-based-chat  
+**Autor:** _Bruno César F. Silva_  
 **Data:** Novembro de 2025  
 
 ---
